@@ -13,4 +13,9 @@ b main
 r
 watch a
 c
+//----
+r
+b main
+watch (a > 10)
+c
 */
