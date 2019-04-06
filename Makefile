@@ -1,4 +1,6 @@
-TARGETS := test1
+TARGETS := \
+test1 \
+watch
 
 CFLAGS := \
 -Wall \
